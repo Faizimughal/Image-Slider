@@ -6,6 +6,8 @@ const images = [
   { src: "/images/img5.jpg" },
   { src: "/images/img6.webp" },
   { src: "/images/img7.jpg" },
+  { src: "/images/img8.jpg" },
+  { src: "/images/img9.jpg" },
 ];
 
 // Display the first image
